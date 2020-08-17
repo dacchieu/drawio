@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T05:55:04.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="aDD1J1nfX6YOEAGmhn58" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-17T05:59:09.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="BRbUt0oMQy0397_LvyDK" version="13.6.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="1697" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1697" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -374,10 +374,10 @@
         <mxCell id="rUVOEs3PUwSI3t5a5U2U-101" value="SAS connection 6Gbps" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="rUVOEs3PUwSI3t5a5U2U-99">
           <mxGeometry x="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rUVOEs3PUwSI3t5a5U2U-90" value="x 8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="rUVOEs3PUwSI3t5a5U2U-90" value="x 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="300" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rUVOEs3PUwSI3t5a5U2U-91" value="x 8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="rUVOEs3PUwSI3t5a5U2U-91" value="x 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rUVOEs3PUwSI3t5a5U2U-92" value="Backup&amp;nbsp; Sever" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#000000;" vertex="1" parent="1">
