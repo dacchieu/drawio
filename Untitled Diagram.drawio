@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T05:51:39.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="YUcTspz7NZuCLNabdCC5" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-17T05:54:19.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="xzS94BVkQzZ-pfYj2ljR" version="13.6.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1697" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
         <mxCell id="rUVOEs3PUwSI3t5a5U2U-14" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.fabric_switch;" vertex="1" parent="1">
           <mxGeometry x="656" y="110" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rUVOEs3PUwSI3t5a5U2U-79" value="LEGENDS&amp;nbsp;" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rUVOEs3PUwSI3t5a5U2U-79" value="LEGENDS&amp;nbsp;" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;strokeColor=#050505;resizeLast=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="690" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="rUVOEs3PUwSI3t5a5U2U-80" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rUVOEs3PUwSI3t5a5U2U-79">
@@ -446,6 +446,24 @@
         </mxCell>
         <mxCell id="rUVOEs3PUwSI3t5a5U2U-109" value="SAN SW" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="310" y="125" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rUVOEs3PUwSI3t5a5U2U-110" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;jumpStyle=none;shadow=1;strokeColor=#EB9534;sketch=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="369" as="sourcePoint" />
+            <mxPoint x="205" y="369" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUVOEs3PUwSI3t5a5U2U-111" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;startArrow=oval;startFill=1;endArrow=oval;endFill=1;jumpStyle=none;shadow=1;strokeColor=#EB9534;sketch=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="380" as="sourcePoint" />
+            <mxPoint x="205" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
